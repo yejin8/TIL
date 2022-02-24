@@ -2,7 +2,7 @@
 
 github setting <br>
 git init<br>
-git commit -m "add 000.md<br>
+git commit -m "add 000.md"<br>
 git log<br>
 git remote add origin<br>
 git remote -v<br>
